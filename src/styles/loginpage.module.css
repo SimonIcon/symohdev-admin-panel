@@ -1,0 +1,13 @@
+.body {
+    width: 100vw;
+    height: 100vh;
+    background-image: url("../assest/loginPage.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.loginComponent {
+    background-image: linear-gradient(to bottom right, #e0f7fa, #b3e5fc, #b2ebf2, #80deea, #4dd0e1);
+}
